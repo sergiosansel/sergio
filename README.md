@@ -1,3 +1,8 @@
+## Sergio's runner game
+
+[Sergio's runner version! :smile: ](http://sergiosansel.github.io/t-rex-runner/)
+
+
 ## t-rex-runner
 
 the trex runner game extracted from chrome offline err page.
@@ -6,8 +11,6 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 
 [go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
-
-[Sergio's version! :smile: ](http://sergiosansel.github.io/t-rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
