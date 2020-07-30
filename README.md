@@ -1,6 +1,6 @@
 ## Sergio's runner game
 
-[Sergio's runner version! :smile: ](http://sergiosansel.github.io/t-rex-runner/)
+[Sergio's runner version!](http://sergiosansel.github.io/t-rex-runner/)
 
 
 ## t-rex-runner
